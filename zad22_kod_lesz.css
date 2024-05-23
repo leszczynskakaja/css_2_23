@@ -1,0 +1,17 @@
+p
+{
+color:red;
+font-size:22pt;
+}
+p#gruby_karmasz
+{
+color:green;
+font-weight: bold;
+font-size:17pt;
+}
+#dlawszyskich_karmasz
+{
+color:yellow;
+font-size:10pt;
+font-family:Arial;
+}
